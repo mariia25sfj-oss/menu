@@ -1,5 +1,4 @@
 import { menu } from "./data/menu";
-import Menu from "./components/Menu";
 
 function App() {
   return (
