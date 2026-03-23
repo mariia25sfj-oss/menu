@@ -1,4 +1,6 @@
-import Dish from "./Dish";
+
+
+import Dish from "./dish";
 import styles from "./Menu.module.css";
 
 const Menu = ({ items }) => {
